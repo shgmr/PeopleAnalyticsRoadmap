@@ -15,15 +15,15 @@ Visual sample [a relative link](Attrition_by_Education.png)
 
 ## 📌 Key Insights
 
-- Higher attrition observed in certain departments and education fields.
+- Higher attrition observed in Age.
 - Younger employees and those with fewer years at the company tend to leave more frequently.
-- Visualizations reveal correlations between job satisfaction, overtime, and attrition.
+- Visualizations reveal correlations between job satisfaction and attrition.
 
 ---
 
 ## 🚀 How to Run
 
-Code sample [a relative link](Attrition_by_Education.png)
+Code sample [a relative link](People_data.ipynb)
 
 
 
