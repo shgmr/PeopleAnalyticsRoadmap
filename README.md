@@ -5,5 +5,8 @@ This project aims to analyze employee attrition trends within the organization u
 Attrition status refers to whether an employee has left or remained with an organization during a specific period. It's a key variable in HR analytics, especially for analyzing employee turnover and retention
 
 ## 📷 Sample Visualizations
+Here’s a snapshot of the attrition distribution by education field:
+!Attrition by Education
+
 
 ![Attrition by Education](PeopleAnalyticsRoadmap/Attrition by Education
