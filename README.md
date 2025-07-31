@@ -9,4 +9,4 @@ Here’s a snapshot of the attrition distribution by education field:
 !Attrition by Education
 
 
-![Attrition by Education](PeopleAnalyticsRoadmap/Attrition by Education
+![Attrition by Education](PeopleAnalyticsRoadmap/Attrition by Education)
