@@ -6,7 +6,7 @@ Attrition status refers to whether an employee has left or remained with an orga
 
 ## 📷 Sample Visualizations
 Here’s a snapshot of the attrition distribution by education field:
-!Attrition by Education
+
+!Attrition by Education Field
 
 
-![Attrition by Education](PeopleAnalyticsRoadmap/Attrition by Education)
