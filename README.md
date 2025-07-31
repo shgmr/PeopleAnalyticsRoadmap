@@ -15,7 +15,7 @@ Visual sample [a relative link](Attrition_by_Education.png)
 
 ## 📌 Key Insights
 
-- Higher attrition observed in Age.
+- Higher attrition observed in Higher Age.
 - Younger employees and those with fewer years at the company tend to leave more frequently.
 - Visualizations reveal correlations between job satisfaction and attrition.
 
