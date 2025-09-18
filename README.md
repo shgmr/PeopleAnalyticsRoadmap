@@ -9,9 +9,14 @@ Attrition status refers to whether an employee has left or remained with an orga
 
 ---
 
-## 📷 Sample Visualizations
+## 📷 Snapshot Sample
 
 Visual sample [a relative link](Attrition_by_Education.png)
+Visual sample [a relative link](Attrition_by_Age.png)
+Visual sample [a relative link](Attrition_by_Gender.png)
+Visual sample [a relative link](Attrition_by_Job_role.png)
+Visual sample [a relative link](Attrition_by_Salary_Slab_and_Job_Role.png)
+Visual sample [a relative link](Attrition_by_years.png)
 
 ## 📌 Key Insights
 
